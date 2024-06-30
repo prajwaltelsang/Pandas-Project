@@ -698,7 +698,6 @@ plt.show()
 
 print("The Best Media Outlets to Advertise the film series should be WEBSITE and TELEVISION")
 
-
 # In[ ]:
 
 
